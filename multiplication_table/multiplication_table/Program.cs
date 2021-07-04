@@ -16,17 +16,13 @@ namespace multiplication_table
         public static void Create_multiplication_table(int[] up,int[]down)// вверхний массив и нижний массив
         {
             Console.ForegroundColor = ConsoleColor.Green; // цвет зеленый у вверхенго массива
-            Console.Write(" ");
+            Console.Write("   ");
             foreach(int i in up)
             {
                 Console.Write(" {0} ",i);
             }
             Console.WriteLine(" ");
-            
-            //foreach (int i in down)
-            //{
-            //    Console.WriteLine(" {0} ", i);
-            //}
+          
 
             int index = 0;
             int[] composition = new int[up.Length];
@@ -43,7 +39,14 @@ namespace multiplication_table
                 Console.ResetColor(); // збрасываем до обычного белого цвета
                 foreach (int i in composition)
                 {
-                    Console.Write(" {0} ",i);
+                    if (i < 13)
+                    {
+                        Console.Write(" {0} ", i);
+                    }
+                    else
+                    {
+                        Console.Write("{0} ", i);
+                    }
                 }
                 Console.WriteLine(" ");
                 index++;
