@@ -27,8 +27,6 @@ namespace multiplication_table
             //{
             //    Console.WriteLine(" {0} ", i);
             //}
-            
-            
 
             int index = 0;
             int[] composition = new int[up.Length];
