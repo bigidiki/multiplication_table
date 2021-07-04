@@ -1,0 +1,13 @@
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\bin\Debug\netcoreapp3.1\multiplication_table.exe
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\bin\Debug\netcoreapp3.1\multiplication_table.deps.json
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\bin\Debug\netcoreapp3.1\multiplication_table.runtimeconfig.json
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\bin\Debug\netcoreapp3.1\multiplication_table.runtimeconfig.dev.json
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\bin\Debug\netcoreapp3.1\multiplication_table.dll
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\bin\Debug\netcoreapp3.1\multiplication_table.pdb
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\obj\Debug\netcoreapp3.1\multiplication_table.csprojAssemblyReference.cache
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\obj\Debug\netcoreapp3.1\multiplication_table.AssemblyInfoInputs.cache
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\obj\Debug\netcoreapp3.1\multiplication_table.AssemblyInfo.cs
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\obj\Debug\netcoreapp3.1\multiplication_table.csproj.CoreCompileInputs.cache
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\obj\Debug\netcoreapp3.1\multiplication_table.dll
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\obj\Debug\netcoreapp3.1\multiplication_table.pdb
+F:\Aliceru\multiplication_table\multiplication_table\multiplication_table\obj\Debug\netcoreapp3.1\multiplication_table.genruntimeconfig.cache
